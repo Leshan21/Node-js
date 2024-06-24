@@ -24,13 +24,9 @@ rl.on('close', () => {
   process.exit(0);
 });
 
-//Adds the listener function to the end of the
-//listeners array for the event named eventName. 
-//No checks are made to see if the listener has 
-//already been added. Multiple calls passing the 
-//same combination of eventNameand listener will 
-//result in the listener being added, and called, 
-//multiple times.
+// rl.on() method is an event listner. This time  
+// it work after the close method execute.
+// rl.on('listning function', callback)
 
 
 
