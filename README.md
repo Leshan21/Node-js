@@ -1,4 +1,4 @@
-<h2><a href="Node-js/Lec-002">Lec-002</a></h2>
+<h2><a href="Lec-002">Lec-002</a></h2>
 <p>This lec I learned how to write and read a file using node.js. Firstly we add 2 modules for the code</p>
 
 <b>1. readline</b>
